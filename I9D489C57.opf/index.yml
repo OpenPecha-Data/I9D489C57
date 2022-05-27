@@ -1,0 +1,9 @@
+id: ba598120b7ca4a9ab0174e23e0c887aa
+annotation_type: index
+revision: '00001'
+annotations:
+  08f1a0b9e6414c1b821416e7d512a716:
+    base: f5C49.txt
+    span:
+      start: 0
+      end: 5832
